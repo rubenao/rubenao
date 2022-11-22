@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rubenao
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning php and python( laravel 8 and django)
+- 👋 Hi, I’m ruben
+- 👀 I’m interested in web development and web design
+- 🌱 I’m currently learning laravel 8 
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me rubenalvarado070@gmail.com
 
